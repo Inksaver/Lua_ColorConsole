@@ -7,6 +7,8 @@ A .pdf file, and a Youtube video is planned.
 
 The versions for C# Python and Java are now complete:
 https://github.com/Inksaver/C_Sharp_ColorConsole
+
 https://github.com/Inksaver/Python_ColorConsole
+
 https://github.com/Inksaver/Java_ColorConsole
 
