@@ -5,4 +5,8 @@ This is the third of a number of related tutorials to improve the appearance of 
 It is aimed at students for projects where a full GUI is not used, and a coloured menu, input box, and other features are included.
 A .pdf file, and a Youtube video is planned.
 
-The versions for C# and Python have already been completed, and Java is being considered. Watch this space!
+The versions for C# Python and Java are now complete:
+https://github.com/Inksaver/C_Sharp_ColorConsole
+https://github.com/Inksaver/Python_ColorConsole
+https://github.com/Inksaver/Java_ColorConsole
+
